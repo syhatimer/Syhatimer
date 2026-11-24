@@ -1,8 +1,7 @@
 <div align="center">
 
-  <!-- En-tête minimaliste -->
-  <h1 style="letter-spacing: -0.5px;">[Ton Prénom]</h1>
-  <p style="color: #86868B;">Software Engineering • Liquid Design Systems</p>
+  <h1>[Ton Prénom]</h1>
+  <p>Software Engineering • Liquid Design Systems</p>
 
 </div>
 
@@ -12,33 +11,18 @@
 
 ### 🔮 Glass & Core Focus
 
-<table width="100%">
-  <tr>
-    <!-- Bloc style carte de verre (simulation) -->
-    <td width="50%" align="left" style="background: rgba(255, 255, 255, 0.03); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.08);">
-      <h3 style="margin-top: 0;"> Ecosystem</h3>
-      <p style="color: #86868B; font-size: 14px;">
-        Recherche constante de fluidité, de translucidité visuelle et d'ergonomie épurée inspirée des derniers canons d'Apple.
-      </p>
-      <code>Swift</code> • <code>macOS</code> • <code>UI/UX</code>
-    </td>
-    
-    <td width="50%" align="left" style="background: rgba(255, 255, 255, 0.03); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.08);">
-      <h3 style="margin-top: 0;">⚡ Engineering</h3>
-      <p style="color: #86868B; font-size: 14px;">
-        Construction rigoureuse des bases logicielles, architecture propre et code minimaliste.
-      </p>
-      <code>Python</code> • <code>TypeScript</code> • <code>Git</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/_Ecosystem-0A0A0A?style=for-the-badge&logo=apple&logoColor=white&labelColor=1C1C1E" alt="Ecosystem" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=1C1C1E" alt="Swift" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-0071E3?style=for-the-badge&logo=figma&logoColor=white&labelColor=1C1C1E" alt="Figma" />
+</p>
+
+> [!NOTE]
+> **Vision :** Recherche constante de fluidité, de translucidité visuelle et d'ergonomie épurée inspirée des derniers canons d'Apple.
 
 ---
 
 ### 🌊 Liquid Roadmap
-
-> [!NOTE]
-> Phase active d'apprentissage et de prototypage d'interfaces fluides.
 
 - [ ] Exploration des design systems modernes.
 - [ ] Conception de composants natifs aux bordures adoucies.
@@ -47,5 +31,5 @@
 ---
 
 <div align="center">
-  <p style="color: #86868B; font-size: 12px;">Liquid Glass Architecture • 2026</p>
+  <small>Liquid Glass Architecture • 2026</small>
 </div>
