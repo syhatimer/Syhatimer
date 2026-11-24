@@ -1,4 +1,3 @@
-#  Hello, world!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%" />
@@ -12,24 +11,6 @@
 
 ---
 
-### About me
-
-I'm passionate about technology, digital experiences and everything surrounding the Apple ecosystem.
-
--  Apple enthusiast
-- Interested in UI design, software and technology
-- Exploring the world of development
-- Always curious, always learning
-
-<!--
-  GITHUB PROFILE README
-  Style: Apple × Liquid Glass
-  Language: English
-  Theme: Light + Dark
-  Recommended repository: YOUR_GITHUB_USERNAME
--->
-
-<!-- ==================== HERO ==================== -->
 
 <p align="center">
   <picture>
@@ -53,33 +34,7 @@ I'm passionate about technology, digital experiences and everything surrounding 
   <img src="https://img.shields.io/badge/Design-8B949E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
-<br>
 
-<p align="center">
-  <i>A little space on the internet, dedicated to technology, creativity and discovery.</i>
-</p>
-
----
-
-<!-- ==================== ABOUT ==================== -->
-
-##  About me
-
-I'm an Apple enthusiast with a strong interest in technology, digital experiences and minimalist design.
-
-I enjoy exploring software, discovering new tools and understanding how things work behind the scenes.
-
--  Passionate about the Apple ecosystem
-- 💻 Interested in software and technology
-- ✦ Appreciating clean interfaces and thoughtful design
-- 🌐 Exploring the world of development
-- 🚀 Always learning something new
-
----
-
-<!-- ==================== INTERESTS ==================== -->
-
-## ✦ Areas of interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -91,13 +46,6 @@ I enjoy exploring software, discovering new tools and understanding how things w
 
 ---
 
-<!-- ==================== VISUAL SPACE ==================== -->
-
-## ◈ Visual space
-
-A collection of things I like, inspirations, screenshots and digital experiences.
-
-<!-- Add your images to the assets/ folder and uncomment the section below.
 
 <p align="center">
   <img src="assets/gallery-01.png" width="48%">
