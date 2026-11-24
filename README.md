@@ -119,43 +119,11 @@ A collection of things I like, inspirations, screenshots and digital experiences
 
 <!-- ==================== CURRENTLY ==================== -->
 
-## ✧ Currently exploring
-
-| Topic | Focus |
-|:---|:---|
-|  Apple ecosystem | Software & digital experiences |
-| 💻 Development | Learning & experimentation |
-| 🎨 Design | Minimalism & user interfaces |
-| 🌐 Technology | Discovering new possibilities |
-
----
-
-<!-- ==================== PROJECTS ==================== -->
-
-## ⌘ Projects
-
-A place for experiments, personal projects and things worth sharing.
-
-<p align="center">
-  <i>My first projects are still ahead of me.</i>
-  <br>
-  <sub>Something interesting is always in progress.</sub>
-</p>
-
-<!--
-When you publish your first project, use this structure:
-
-### Project name
-Short description of your project.
-
-[View project](PROJECT_URL)
--->
-
----
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-## ◉ GitHub activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&icon_color=8B949E&text_color=8B949E&include
