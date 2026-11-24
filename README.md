@@ -60,8 +60,8 @@ Mes dépôts sont encore en coulisses, mais voici ce sur quoi je travaille :
 
 <!-- Remplace TON_PSEUDO par ton vrai nom d'utilisateur GitHub dans les 2 liens ci-dessous -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071E3&icon_color=0071E3" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071E3" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=syhatimer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071E3&icon_color=0071E3" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhatimer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071E3" />
 </div>
 
 <br />
