@@ -31,10 +31,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apple%2Fstyle-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Technology-555555?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Apple style-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/UI%2FUX-555555?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
