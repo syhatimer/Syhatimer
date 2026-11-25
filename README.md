@@ -47,21 +47,4 @@
 ---
 
 
-<p align="center">
-  <img src="assets/gallery-01.png" width="48%">
-  <img src="assets/gallery-02.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="assets/gallery-03.png" width="48%">
-  <img src="assets/gallery-04.png" width="48%">
-</p>
-
--->
-
-<p align="center">
-  <i>Visuals, ideas and inspiration — coming soon.</i>
-</p>
-
----
 
