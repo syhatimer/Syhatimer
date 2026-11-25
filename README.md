@@ -28,12 +28,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=400&size=19&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+space.;Apple+enthusiast+%EF%A3%BF;Exploring+technology+and+design.;Always+curious.+Always+learning." alt="Typing introduction">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Technology-8B949E?style=flat-square&logo=probot&logoColor=white">
-  <img src="https://img.shields.io/badge/Design-8B949E?style=flat-square&logo=figma&logoColor=white">
-</p>
-
 
 
 <p align="center">
